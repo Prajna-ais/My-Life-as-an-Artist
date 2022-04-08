@@ -1,0 +1,33 @@
+body { 
+  background-color: lightpink;    
+} 
+
+img { 
+  width: 260px;
+  height: 300px; 
+  margin: 10px; 
+  border-color: purple; 
+  border-width: 6px;  
+  border-style: solid; 
+  border-radius: 8px; 
+} 
+
+h2 { 
+  font-style: oblique; 
+  font-size: 26px; 
+  color: darkcyan;
+} 
+
+
+h3 { 
+  font-style: italic; 
+  text-decoration: underline; 
+  font-size: 23px; 
+  color: darkmagenta;
+} 
+
+p { 
+  font-size: 22px;  
+  font-family: cursive; 
+  color: deeppink; 
+} 
